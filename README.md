@@ -1,6 +1,6 @@
 # springmvc-basic
 
-Spring MVC 기본 기능
+김영한의 Spring MVC 기본편을 들으면서 아래 내용을 알아두는 것을 목표로 한다.
 
 * @RequestMapping 사용 시 지원하는 기능들
 * 요청 데이터 전달 방법
